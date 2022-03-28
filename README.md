@@ -1,1 +1,1 @@
-# PyQt5를 이용하여 툴 만드는 공간
+# Element Tree, lxml을 이용하여 xml파일 다루는 공간
